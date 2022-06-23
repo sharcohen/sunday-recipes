@@ -1,0 +1,21 @@
+{
+  "translation": {
+    "recipes": "Recipes",
+    "details": "Details",
+    "calories": "Calories: {{calories}}",
+    "carbos": "Carbos: {{carbos}}",
+    "fats": "Fats: {{fats}}",
+    "difficulty": "Difficulty: {{difficulty}}",
+    "proteins": "Proteins: {{proteins}}",
+    "preparationTime": "Prep. Time: {{time}}",
+    "country": "Country: {{country}}",
+    "na": "NA",
+    "sort": "Sort",
+    "sortOrder": "Sort Order",
+    "close": "Close",
+    "refresh": "Refresh",
+    "nothingToShow": "Nothing to show",
+    "ohNo": "Oh no, something went wrong!",
+    "errorOccurred": "Unfortunately, an error has occurred"
+  }
+}
